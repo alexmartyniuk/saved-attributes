@@ -1,0 +1,7 @@
+syntax: glob
+dcu/
+*.res
+*.stat
+*.identcache
+*.dsk
+*.local
